@@ -11,3 +11,4 @@ Relevant links:
 [Ember.js](http://emberjs.com/)
 [rasputin](https://github.com/tchak/rasputin)
 [middleman](https://github.com/middleman/middleman)
+[bootstrap-sass](https://github.com/thomas-mcdonald/bootstrap-sass)
