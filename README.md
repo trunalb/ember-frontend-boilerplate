@@ -10,4 +10,4 @@ Through middleman, it utilizes sprockets for its asset pipeline (like Rails 3.1 
 Relevant links:
 [Ember.js](http://emberjs.com/)
 [rasputin](https://github.com/tchak/rasputin)
-[middleman](https://github.com/tdreyno/middleman)
+[middleman](https://github.com/middleman/middleman)
